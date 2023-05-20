@@ -3,6 +3,15 @@ A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
 
+## 【AI繪畫】給美女們更換衣服！
++ https://www.youtube.com/watch?v=u8SOVBfDvyA
+
+### 教學網站與安裝包
++ https://www.freedidi.com/9213.html
++ [stable-diffusion-webui Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
++ [Python 3.10.11下載](https://www.python.org/downloads/release/python-31011/)
++ [Git Download](https://git-scm.com/download/win)
+
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
 - Original txt2img and img2img modes
