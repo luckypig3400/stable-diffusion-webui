@@ -12,6 +12,11 @@ A browser interface based on Gradio library for Stable Diffusion.
 + [Python 3.10.11下載](https://www.python.org/downloads/release/python-31011/)
 + [Git Download](https://git-scm.com/download/win)
 
+## 安裝注意!
+#### 因為webui在執行時會檢查git commit hash，所以此Repo僅用來記錄筆記
+### 實際使用需到官方Release頁面下載source code zip
++ https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases
+
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
 - Original txt2img and img2img modes
